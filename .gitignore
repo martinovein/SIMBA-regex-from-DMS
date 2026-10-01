@@ -1,0 +1,7 @@
+
+# Local data and generated files
+.pythondeps/
+outputs/
+simba_t0_t20.xlsx
+simba_t0_t20_DMS_only.xlsx
+S2-IE1-independant-data.xlsx
